@@ -41,7 +41,7 @@
 [![Gitter](https://badges.gitter.im/PPC-SE-2020/OOP.svg)](https://gitter.im/PPC-SE-2020/OOP?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 ## 4. Знайти в масиві число, яке повторюється найбільшу кількість разів:
-Код:
+**Код:**
 ```
 package domain;
 
@@ -136,3 +136,7 @@ public class Exercise {
     }
 }
 ```
+:point_down:**Результат:**:point_down:
+![](RES.png)
+-- -- -- -- -- -- --
+**PS:** Якщо що, я намагався "короче і проще" зробити код :raised_hands: , але чуствую що можна було ще спростити і більш компактним зробить, якщо щось можливо спростити можете підсказати?  :grimacing:
